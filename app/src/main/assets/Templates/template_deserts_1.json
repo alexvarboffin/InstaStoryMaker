@@ -1,0 +1,147 @@
+{
+  "orientation": "vertical",
+  "layout_type": "ConstraintLayout",
+  "background_color": "#ffffff",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": false,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": false,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "is_overlay": true,
+      "color_effect": {
+        "color": -1,
+        "hue_position": 0,
+        "saturation_position": 50,
+        "alpha_position": 0
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 5,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "new",
+      "color": "#ffffff",
+      "font_category": "Basic",
+      "font_name": "Basic 1",
+      "size": 0.075,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    },
+    {
+      "id": 1,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 18,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "Spring/Summer\nJewelry Collections",
+      "color": "#a1887f",
+      "font_category": "Basic",
+      "font_name": "Basic 9",
+      "size": 0.06,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 12,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    },
+    {
+      "id": 2,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 27,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "SWIPE UP",
+      "color": "#000000",
+      "font_category": "Basic",
+      "font_name": "Basic 1",
+      "size": 0.045,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ],
+  "stickers": [
+    {
+      "id": 0,
+      "url": ""
+    }
+  ]
+}

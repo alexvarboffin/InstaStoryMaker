@@ -1,0 +1,75 @@
+{
+  "orientation": "vertical",
+  "layout_type": "ConstraintLayout",
+  "background_color": null,
+  "background_gradient": ["#11998e", "#38ef7d"],
+  "gradient_linear_direction": "Horizontal",
+  "gradient_type": "Linear",
+  "background_photo_url": null,
+  "photo_category": null,
+  "photo_id": null,
+  "photo_scale": 100,
+  "photo_blur": 25,
+
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100,
+      "is_overlay": true,
+      "color_effect": {
+        "color": -1,
+        "hue_position": 0,
+        "saturation_position": 50,
+        "alpha_position": 0
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 88.77,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top":0,
+      "margin_bottom": 0,
+      "text": "Eid Mubarak",
+      "color": "#ffffff",
+      "font_category": "Calligraphy",
+      "font_name": "Calligraphy 8",
+      "size": 0.145,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "underLine": false,
+      "strikethrough": false,
+      "align": "center"
+    }
+  ]
+}

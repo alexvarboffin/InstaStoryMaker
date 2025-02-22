@@ -1,0 +1,93 @@
+{
+  "orientation": "vertical",
+  "layout_type": "RelativeLayout",
+  "background_color": "#ffffff",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": 0,
+      "layout_y": "top",
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 20,
+      "padding_right": 20,
+      "margin_top": 40,
+      "margin_bottom": 0,
+      "text": "MY lIFE",
+      "color": "#000000",
+      "font_category": "Basic",
+      "font_name": "Azonix",
+      "size": 0.080,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letterSpacing": 0,
+      "lineSpacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    },
+    {
+      "id": 1,
+      "layout_id": 0,
+      "layout_y": "bottom",
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 20,
+      "padding_right": 20,
+      "margin_top": 0,
+      "margin_bottom": 15,
+      "text": "WEBSITE.COM",
+      "color": "#000000",
+      "font_category": "Basic",
+      "font_name": "Pianaforma",
+      "size": 0.040,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letterSpacing": 0,
+      "lineSpacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": 0,
+      "name": "marble_bg_1"
+    }
+  ]
+}

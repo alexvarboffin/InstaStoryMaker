@@ -1,0 +1,60 @@
+{
+  "orientation": "vertical",
+  "layout_type": "RelativeLayout",
+  "background_color": "#FFFFFF",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100,
+      "is_overlay": true
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 80,
+      "layout_y": 10,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "ANOTHER ONE",
+      "color": "#000000",
+      "font_category": "Retro",
+      "font_name": "Retro 12",
+      "size": 0.045,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 1,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ]
+}

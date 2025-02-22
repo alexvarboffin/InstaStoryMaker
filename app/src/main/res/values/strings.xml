@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Insta Story Maker</string>
+
+
+
+    <string name="Banner">/6499/example/banner</string>
+    <string name="FullscreenAdID">/6499/example/interstitial</string>
+
+
+    <string name="PrivacyPolicy">https://www.google.com/</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="HINT_YOUR_TEXT">Your text</string>
+    <string name="BTN_RETRY">Retry</string>
+    <string name="BTN_FEEDBACK">Send Feedback</string>
+    <string name="BTN_RATE">Rate us 5 stars</string>
+    <string name="BTN_SHARE">Share</string>
+    <string name="BTN_PRIVACY">Privacy Policy</string>
+    <string name="BTN_MOREAPPS">More Apps</string>
+    <string name="BTN_CANCEL">Cancel</string>
+    <string name="BTN_DELETE">Delete</string>
+    <string name="BTN_OK">OK</string>
+    <string name="BTN_GOTO_SETTINGS">GOTO SETTINGS</string>
+    <string name="BTN_DONE">Done</string>
+    <string name="BTN_GO_HOME">Back To Home</string>
+    <string name="BTN_DRAFT">Save Draft</string>
+    <string name="BTN_STANDARD">Standard</string>
+    <string name="BTN_MEDIUM">Medium</string>
+    <string name="BTN_HIGH">High</string>
+    <string name="BTN_EDIT">Edit</string>
+    <string name="BTN_YES">Yes</string>
+    <string name="BTN_NO">No</string>
+    <string name="APD_SEND_TO">Send To</string>
+    <string name="MSG_SOMETHING_WRONG">Something goes wrong, Try again</string>
+    <string name="MSG_DELETE_INFO">"Please don't delete this information:"</string>
+    <string name="MSG_ASK_PERMISSION">This app needs permissions to use this feature. You can grant them in app settings.</string>
+    <string name="MSG_SELECT_PATTERN">Please Select Pattern First</string>
+    <string name="MSG_FILL_FRAMES">Please fill all the frames</string>
+    <string name="MSG_DELETE_FILE">"Are you sure? Won't be able to recover this file!"</string>
+
+    <string name="TITLE_PLEASE_WAIT">Please wait…</string>
+    <string name="TITLE_TEMPLATES">Templates</string>
+    <string name="TITLE_MY_DRAFTS">My Drafts</string>
+    <string name="TITLE_MY_STORIES">My Stories</string>
+    <string name="TITLE_IMAGES">Images</string>
+    <string name="TITLE_NO_DRAFT_FOUND">No Draft Found</string>
+    <string name="TITLE_NO_STORY_FOUND">No Story Found</string>
+    <string name="TITLE_CUSTOM_COLOR">Custom Color</string>
+    <string name="TITLE_PERMISSIONS">Need Permissions</string>
+    <string name="TITLE_FONTS_LOCKED">This font is locked</string>
+    <string name="TITLE_GRADIENTS_LOCKED">This gradient is locked</string>
+    <string name="TITLE_FILTERS">Filters</string>
+    <string name="TITLE_STICKERS">Stickers</string>
+
+
+
+</resources>

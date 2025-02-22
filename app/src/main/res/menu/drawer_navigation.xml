@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/sb_rate_us"
+            android:icon="@drawable/ic_star_black"
+            android:title="@string/BTN_RATE" />
+        <item
+            android:id="@+id/sb_share"
+            android:icon="@drawable/ic_share_black"
+            android:title="@string/BTN_SHARE" />
+
+        <item
+            android:id="@+id/sb_privacy"
+            android:icon="@drawable/ic_privacy_black"
+            android:title="@string/BTN_PRIVACY" />
+    </group>
+</menu>

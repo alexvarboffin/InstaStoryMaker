@@ -1,0 +1,86 @@
+{
+  "orientation": "vertical",
+  "layout_type": "ConstraintLayout",
+  "background_color": "#ffffff",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 3,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 4,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 5,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 6,
+      "weight_x": 100,
+      "weight_y": 100,
+      "is_overlay": true,
+      "color_effect": {
+        "color": -1,
+        "hue_position": 0,
+        "saturation_position": 50,
+        "alpha_position": 0
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 75,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 0,
+      "padding_right": 75,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "Wishing you all the love and happiness you so richly deserve...\nhappy Mother’s Day!",
+      "color": "#000000",
+      "font_category": "Comic",
+      "font_name": "Comic 3",
+      "size": 0.055,
+      "gradient": "#E8CBC0 #636FA4",
+      "tile_mode": null,
+      "gradient_type": "Linear",
+      "linear_direction": "Horizontal",
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 12,
+      "align": "left",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ]
+}

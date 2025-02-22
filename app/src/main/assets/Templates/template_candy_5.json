@@ -1,0 +1,131 @@
+{
+  "orientation": "vertical",
+  "layout_type": "ConstraintLayout",
+  "background_color": "#ffffff",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 40
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100,
+      "is_overlay": true,
+      "color_effect": {
+        "color": -1,
+        "hue_position": 0,
+        "saturation_position": 50,
+        "alpha_position": 0
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 34.03,
+      "layout_y": 70,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "CANDY",
+      "color": "#000000",
+      "font_category": "Basic",
+      "font_name": "Basic 4",
+      "size": 0.065,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "underLine": false,
+      "strikethrough": false,
+      "align": "center"
+    },
+    {
+      "id": 1,
+      "layout_id": 0,
+      "layout_x": 50,
+      "layout_y": null,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": "0"
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 5,
+      "padding_right": 65,
+      "margin_top": 5,
+      "margin_bottom": 0,
+      "text": "I think people always want candy, whether you're a kid or an adult.",
+      "color": "#000000",
+      "font_category": "Basic",
+      "font_name": "Basic 6",
+      "size": 0.045,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "underLine": false,
+      "strikethrough": false,
+      "align": "left"
+    },
+    {
+      "id": 2,
+      "layout_id": -1,
+      "layout_x": 34.03,
+      "layout_y": 90.53,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "Dylan Lauren",
+      "color": "#ffffff",
+      "font_category": "Basic",
+      "font_name": "Basic 6",
+      "size": 0.04,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "underLine": false,
+      "strikethrough": false,
+      "align": "center"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "orientation": "vertical",
+  "layout_type": "RelativeLayout",
+  "background_color": "#F3DCD4",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 3,
+      "topRightRadius": 3,
+      "bottomLeftRadius": 3,
+      "bottomRightRadius": 3
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100,
+      "is_overlay": true,
+      "color_effect": {
+        "color": -1,
+        "hue_position": 0,
+        "saturation_position": 50,
+        "alpha_position": 0
+      }
+    }
+  ],
+  "texts": [
+
+  ]
+}

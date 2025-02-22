@@ -1,0 +1,101 @@
+{
+  "orientation": "vertical",
+  "layout_type": "ConstraintLayout",
+  "background_color": "#ffffff",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 50
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 1,
+      "is_overlay": true
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 50
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 45.5,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "flower arrangement!",
+      "color": "#000000",
+      "font_category": "Brush",
+      "font_name": "Brush 6",
+      "size": 0.12,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 12,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    },
+    {
+      "id": 1,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 55.5,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "www.website.com",
+      "color": "#000000",
+      "font_category": "Basic",
+      "font_name": "Basic 1",
+      "size": 0.055,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ],
+  "stickers": [
+    {
+      "id": 0,
+      "url": ""
+    }
+  ]
+}

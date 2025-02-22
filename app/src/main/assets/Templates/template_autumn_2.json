@@ -1,0 +1,171 @@
+{
+  "orientation": "vertical",
+  "layout_type": "RelativeLayout",
+  "background_color": "#F3DCD4",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 10,
+      "topRightRadius": 10,
+      "bottomLeftRadius": 10,
+      "bottomRightRadius": 10
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 3,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 3,
+      "topRightRadius": 3,
+      "bottomLeftRadius": 3,
+      "bottomRightRadius": 3
+    },
+    {
+      "id": 4,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 5,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 3,
+      "topRightRadius": 3,
+      "bottomLeftRadius": 3,
+      "bottomRightRadius": 3
+    },
+    {
+      "id": 6,
+      "weight_x": 100,
+      "weight_y": 100,
+      "is_overlay": true,
+      "color_effect": {
+        "color": -1,
+        "hue_position": 0,
+        "saturation_position": 50,
+        "alpha_position": 0
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 13.86,
+      "layout_y": 14,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 5,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "#1",
+      "color": "#000000",
+      "font_category": "Brush",
+      "font_name": "Brush 6",
+      "size": 0.15,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    },
+    {
+      "id": 1,
+      "layout_id": -1,
+      "layout_x": 56.75,
+      "layout_y": 14,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 5,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "#2",
+      "color": "#000000",
+      "font_category": "Brush",
+      "font_name": "Brush 6",
+      "size": 0.15,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    },
+    {
+      "id": 2,
+      "layout_id": -1,
+      "layout_x": 13.86,
+      "layout_y": 87.5,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": -5,
+      "scale": 1,
+      "layout_padding": true,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "#3",
+      "color": "#000000",
+      "font_category": "Brush",
+      "font_name": "Brush 6",
+      "size": 0.15,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ]
+}

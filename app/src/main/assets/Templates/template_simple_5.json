@@ -1,0 +1,61 @@
+{
+  "orientation": "vertical",
+  "layout_type": "RelativeLayout",
+  "background_color": "#ffffff",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 50,
+      "weight_y": 100
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100,
+      "is_overlay": true,
+      "color_effect": {
+        "color": -1,
+        "hue_position": 0,
+        "saturation_position": 50,
+        "alpha_position": 0
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 50,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 48,
+      "padding_right": 48,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "Death is not the greatest loss in life.\nThe greatest loss is what dies inside us while we live.",
+      "color": "#000000",
+      "font_category": "Retro",
+      "font_name": "Retro 9",
+      "size": 0.060,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 14,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ]
+}

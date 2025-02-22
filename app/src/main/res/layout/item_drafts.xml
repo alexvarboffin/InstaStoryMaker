@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="3.0dip"
+    app:cardCornerRadius="5.0dip"
+    app:cardElevation="2.0dip">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_thumb"
+                android:layout_width="200.0dip"
+                android:layout_height="300.0dip"
+                android:background="@color/colorLightGrey"
+                android:scaleType="centerCrop" />
+
+            <View
+                android:id="@+id/v_line"
+                android:layout_width="fill_parent"
+                android:layout_height="4.0dip"
+                android:background="@color/colorAccent2" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_checked"
+            android:layout_width="200.0dip"
+            android:layout_height="300.0dip"
+            android:background="@color/colorTransparentBlack">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:alpha="50.0"
+                android:src="@drawable/ic_check_fill_white" />
+        </RelativeLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,125 @@
+{
+  "orientation": "vertical",
+  "layout_type": "ConstraintLayout",
+  "background_color": "#d9d9d9",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 10,
+      "topRightRadius": 10,
+      "bottomLeftRadius": 10,
+      "bottomRightRadius": 10
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 10,
+      "topRightRadius": 10,
+      "bottomLeftRadius": 10,
+      "bottomRightRadius": 10
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 10,
+      "topRightRadius": 10,
+      "bottomLeftRadius": 10,
+      "bottomRightRadius": 10
+    },
+    {
+      "id": 3,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 10,
+      "topRightRadius": 10,
+      "bottomLeftRadius": 10,
+      "bottomRightRadius": 10
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 60,
+      "layout_y": 25,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 90,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "My\nTravel",
+      "color": "#000000",
+      "font_category": "Comic",
+      "font_name": "Comic 6",
+      "size": 0.22,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    },
+    {
+      "id": 1,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 75,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 100,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "Everything you can imagine is real",
+      "color": "#000000",
+      "font_category": "Comic",
+      "font_name": "Comic 6",
+      "size": 0.150,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 12,
+      "align": "left",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ],
+  "stickers": [
+    {
+      "id": 0,
+      "url": ""
+    }
+  ]
+}

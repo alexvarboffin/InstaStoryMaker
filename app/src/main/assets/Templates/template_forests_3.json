@@ -1,0 +1,29 @@
+{
+  "orientation": "vertical",
+  "layout_type": "ConstraintLayout",
+  "background_color": "#ffffff",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 3,
+      "weight_x": 100,
+      "weight_y": 100
+    }
+  ],
+  "texts": [
+  ]
+}

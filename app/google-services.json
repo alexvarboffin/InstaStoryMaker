@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782958353354",
+    "firebase_url": "https://story-maker-2cc45.firebaseio.com",
+    "project_id": "story-maker-2cc45",
+    "storage_bucket": "story-maker-2cc45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782958353354:android:99f9ff5dc4de863b",
+        "android_client_info": {
+          "package_name": "com.maxvidzgallery.storymaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782958353354-5kptrrhr5j338ojv15cncdsrq8efrtlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5FzxWoqC38pgALuIV7c21E6Sa05IoltM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782958353354-5kptrrhr5j338ojv15cncdsrq8efrtlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

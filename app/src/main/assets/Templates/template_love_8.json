@@ -1,0 +1,126 @@
+{
+  "orientation": "vertical",
+  "layout_type": "RelativeLayout",
+  "background_color": null,
+  "background_gradient": null,
+  "gradient_linear_direction": "",
+  "gradient_type": "",
+  "background_photo_url": null,
+  "photo_category": null,
+  "photo_id": null,
+  "photo_scale": 100,
+  "photo_blur": 25,
+
+"layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": false,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": false,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "is_overlay": true
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": false,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "is_overlay": true,
+      "color_effect": {
+        "color": -1,
+        "hue_position": 0,
+        "saturation_position": 50,
+        "alpha_position": 0
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 70,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 20,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "Valentine's Day",
+      "color": "#ffffff",
+      "font_category": "Holidays",
+      "font_name": "Holidays 5",
+      "size": 0.17,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    },
+    {
+      "id": 1,
+      "layout_id": 1,
+      "layout_x": 42.5,
+      "layout_y": null,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": "0"
+      },
+      "rotate": 20,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 0,
+      "margin_top": 15,
+      "margin_bottom": 0,
+      "text": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+      "color": "#ffffff",
+      "font_category": "Holidays",
+      "font_name": "Holidays 9",
+      "size": 0.08,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "center",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ]
+}

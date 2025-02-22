@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="directions_menu">
+        <item>Linear</item>
+        <item>Radial</item>
+        <item>Sweep</item>
+    </array>
+
+    <array name="font_categories">
+        <item>Basic</item>
+        <item>Calligraphy</item>
+        <item>Brush</item>
+        <item>Comic</item>
+        <item>3D</item>
+        <item>Decorative</item>
+        <item>Gothic</item>
+        <item>Retro</item>
+        <item>Stencil Army</item>
+        <item>Holidays</item>
+    </array>
+
+    <array name="gradient_palette">
+        <item>#40E0D0 #FF8C00 #FF0080</item>
+        <item>#3E5151 #DECBA4</item>
+        <item>#11998e #38ef7d</item>
+        <item>#108dc7 #ef8e38</item>
+        <item>#FC5C7D #6A82FB</item>
+        <item>#FC466B #3F5EFB</item>
+        <item>#c94b4b #4b134f</item>
+        <item>#23074d #cc5333</item>
+        <item>#fffbd5 #b20a2c</item>
+        <item>#0f0c29 #302b63 #24243e</item>
+        <item>#00b09b #96c93d</item>
+        <item>#D3CCE3 #E9E4F0</item>
+        <item>#3C3B3F #605C3C</item>
+        <item>#CAC531 #F3F9A7</item>
+        <item>#800080 #ffc0cb</item>
+        <item>#fc4a1a #f7b733</item>
+        <item>#e1eec3 #f05053</item>
+        <item>#74ebd5 #ACB6E5</item>
+        <item>#6D6027 #D3CBB8</item>
+        <item>#03001e #7303c0 #ec38bc #fdeff9</item>
+        <item>#ADA996 #F2F2F2 #DBDBDB #EAEAEA</item>
+        <item>#667db6 #0082c8 #0082c8 #667db6</item>
+        <item>#e1eec3 #f05053</item>
+        <item>#1a2a6c #b21f1f #fdbb2d</item>
+        <item>#22c1c3 #fdbb2d</item>
+        <item>#ff9966 #ff5e62</item>
+        <item>#7F00FF #E100FF</item>
+        <item>#C9D6FF #E2E2E2</item>
+        <item>#396afc #2948ff</item>
+        <item>#d9a7c7 #fffcdc</item>
+        <item>#070000 #4C0001 #070000</item>
+        <item>#000000 #E5008D #FF070B</item>
+        <item>#0cebeb #20e3b2 #29ffc6</item>
+        <item>#06beb6 #48b1bf</item>
+        <item>#642B73 #C6426E</item>
+        <item>#1c92d2 #f2fcfe</item>
+        <item>#000000 #0f9b0f</item>
+        <item>#36D1DC #5B86E5</item>
+        <item>#CB356B #BD3F32</item>
+        <item>#3A1C71 #D76D77 #FFAF7B</item>
+        <item>#283c86 #45a247</item>
+        <item>#EF3B36 #FFFFFF</item>
+        <item>#c0392b #8e44ad</item>
+        <item>#159957 #155799</item>
+        <item>#000046 #1CB5E0</item>
+        <item>#007991 #78ffd6</item>
+        <item>#56CCF2 #2F80ED</item>
+        <item>#EB5757 #000000</item>
+        <item>#E44D26 #F16529</item>
+        <item>#4AC29A #BDFFF3</item>
+        <item>#B2FEFA #B2FEFA</item>
+        <item>#30E8BF #FF8235</item>
+        <item>#D66D75 #E29587</item>
+        <item>#20002c #cbb4d4</item>
+        <item>#C33764 #1D2671</item>
+        <item>#F7971E #FFD200</item>
+        <item>#34e89e #0f3443</item>
+        <item>#6190E8 #A7BFE8</item>
+        <item>#44A08D #093637</item>
+        <item>#200122 #6f0000</item>
+        <item>#0575E6 #021B79</item>
+        <item>#4568DC #B06AB3</item>
+        <item>#43C6AC #191654</item>
+        <item>#ec008c #fc6767</item>
+        <item>#FF512F #DD2476</item>
+        <item>#ee9ca7 #ffdde1</item>
+        <item>#FBD3E9 #BB377D</item>
+        <item>#43C6AC #F8FFAE</item>
+        <item>#FFAFBD #ffc3a0</item>
+        <item>#F0F2F0 #000C40</item>
+        <item>#E8CBC0 #636FA4</item>
+        <item>#DCE35B #45B649</item>
+        <item>#c0c0aa #1cefff</item>
+        <item>#9CECFB #65C7F7 #0052D4</item>
+        <item>#DBE6F6 #C5796D</item>
+        <item>#3494E6 #EC6EAD</item>
+        <item>#67B26F #4ca2cd</item>
+        <item>#093028 #237A57</item>
+        <item>#b2dfdb #237A57</item>
+        <item>#A770EF #CF8BF3 #FDB99B</item>
+    </array>
+
+    <array name="tab_titles">
+        <item>@string/TITLE_IMAGES</item>
+    </array>
+
+</resources>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="280dp"
+    android:layout_centerInParent="true"
+    android:layout_gravity="center"
+    android:background="@drawable/dig_base"
+    android:backgroundTint="@color/colorBlack"
+    android:clickable="true"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/btn_negative"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:padding="2dp"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="2dp">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="@color/colorWhite">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:maxLines="1"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="@string/BTN_GO_HOME"
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="14sp"
+                    android:typeface="monospace" />
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="2dp"
+                    android:layout_gravity="bottom"
+                    android:background="@color/colorBlack" />
+
+            </FrameLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/btn_positive"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:padding="2dp"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="2dp">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="@color/colorWhite">
+
+                <TextView
+                    android:id="@+id/text_positive"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:maxLines="1"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="@string/BTN_DRAFT"
+                    android:textAllCaps="true"
+
+                    android:textColor="@color/colorBlack"
+                    android:textSize="14sp"
+                    android:typeface="monospace" />
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="2dp"
+                    android:layout_gravity="bottom"
+                    android:background="@color/colorBlack" />
+
+            </FrameLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/btn_neutral"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:padding="2dp"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="2dp">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="@color/colorWhite">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:maxLines="1"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="@string/BTN_CANCEL"
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="14sp"
+                    android:typeface="monospace" />
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="2dp"
+                    android:layout_gravity="bottom"
+                    android:background="@color/colorBlack" />
+
+            </FrameLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!--        <TextView-->
+        <!--            android:id="@+id/btn_negative"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="50dp"-->
+        <!--            android:background="?android:attr/selectableItemBackground"-->
+        <!--            android:gravity="center_vertical"-->
+        <!--            android:paddingLeft="15dp"-->
+        <!--            android:text="@string/BTN_GO_HOME"-->
+        <!--            android:textAllCaps="true"-->
+        <!--            android:textColor="@color/colorBlack"-->
+        <!--            android:textSize="14sp"-->
+        <!--            android:typeface="monospace" />-->
+
+        <!--        <TextView-->
+        <!--            android:visibility="visible"-->
+        <!--            android:id="@+id/btn_positive"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="50dp"-->
+        <!--            android:alpha="100"-->
+        <!--            android:background="?android:attr/selectableItemBackground"-->
+        <!--            android:gravity="center_vertical"-->
+        <!--            android:paddingLeft="15dp"-->
+        <!--            android:text="@string/BTN_DRAFT"-->
+        <!--            android:textAllCaps="true"-->
+        <!--            android:textColor="@color/colorBlack"-->
+        <!--            android:textSize="14sp"-->
+        <!--            android:typeface="monospace" />-->
+
+        <!--        <TextView-->
+        <!--            android:id="@+id/btn_neutral"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="50dp"-->
+        <!--            android:background="?android:attr/selectableItemBackground"-->
+        <!--            android:gravity="center_vertical"-->
+        <!--            android:paddingLeft="15dp"-->
+        <!--            android:text="@string/BTN_CANCEL"-->
+        <!--            android:textAllCaps="true"-->
+        <!--            android:textColor="@color/colorBlack"-->
+        <!--            android:textSize="14sp"-->
+        <!--            android:typeface="monospace" />-->
+
+    </LinearLayout>
+</RelativeLayout>

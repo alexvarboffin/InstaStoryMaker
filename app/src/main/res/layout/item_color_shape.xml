@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="25dp"
+    android:layout_height="25dp"
+    android:orientation="vertical"
+    android:layout_margin="3dp">
+
+    <com.github.florent37.shapeofview.shapes.CircleView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:elevation="4dp">
+        <View
+            android:id="@+id/v_shape"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorWhite" />
+    </com.github.florent37.shapeofview.shapes.CircleView>
+
+</LinearLayout>

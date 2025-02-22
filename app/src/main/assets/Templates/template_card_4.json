@@ -1,0 +1,90 @@
+{
+  "orientation": "vertical",
+  "layout_type": "ConstraintLayout",
+  "background_color": "#b0bec5",
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 10,
+      "topRightRadius": 10,
+      "bottomLeftRadius": 10,
+      "bottomRightRadius": 10
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 10,
+      "topRightRadius": 10,
+      "bottomLeftRadius": 10,
+      "bottomRightRadius": 10
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 10,
+      "topRightRadius": 10,
+      "bottomLeftRadius": 10,
+      "bottomRightRadius": 10
+    },
+    {
+      "id": 3,
+      "weight_x": 100,
+      "weight_y": 100,
+      "rounded_rect": true,
+      "topLeftRadius": 10,
+      "topRightRadius": 10,
+      "bottomLeftRadius": 10,
+      "bottomRightRadius": 10
+    }
+  ],
+  "texts": [
+    {
+      "id": 0,
+      "layout_id": -1,
+      "layout_x": 50,
+      "layout_y": 90,
+      "position": {
+        "center": null,
+        "right": null,
+        "top": null,
+        "left": null,
+        "bottom": null
+      },
+      "rotate": 0,
+      "scale": 1,
+      "layout_padding": false,
+      "padding_left": 0,
+      "padding_right": 70,
+      "margin_top": 0,
+      "margin_bottom": 0,
+      "text": "I never dreamed about success.\nI worked for it.",
+      "color": "#000000",
+      "font_category": "Decorative",
+      "font_name": "Decorative 4",
+      "size": 0.070,
+      "gradient": null,
+      "tile_mode": null,
+      "gradient_type": null,
+      "linear_direction": null,
+      "opacity": 255,
+      "letter_spacing": 0,
+      "line_spacing": 10,
+      "align": "left",
+      "underLine": false,
+      "strikethrough": false
+    }
+  ],
+  "stickers": [
+    {
+      "id": 0,
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "orientation": "vertical",
+  "layout_type": "ConstraintLayout",
+  "background_color": "#ffffff",
+
+  "layouts": [
+    {
+      "id": 0,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 1,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 2,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 3,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 4,
+      "weight_x": 100,
+      "weight_y": 100
+    },
+    {
+      "id": 5,
+      "weight_x": 100,
+      "weight_y": 100,
+      "is_overlay": true,
+      "color_effect": {
+        "color": -1,
+        "hue_position": 0,
+        "saturation_position": 50,
+        "alpha_position": 0
+      }
+    }
+  ],
+  "texts": [
+
+  ]
+}
